@@ -2,7 +2,7 @@
 name: User story
 about: User story
 title: ''
-labels: ТРПО
+labels: User Story
 assignees: AMAT0RY
 
 ---
